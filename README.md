@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-.github.io/sp24-cse110-lab3
+jtung0705.github.io/sp24-cse110-lab3
